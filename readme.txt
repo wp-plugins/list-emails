@@ -1,4 +1,4 @@
-=== Thank Me Later ===
+=== List Emails ===
 Contributors: bbosh
 Plugin URI: http://blog.pipvertise.co.uk/wordpress-plugin-list-emails/
 Tags: comment, comments, community, contact, email, e-mail, user, users, export
