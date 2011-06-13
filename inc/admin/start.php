@@ -204,7 +204,7 @@ else:
 		require_once "download.php";
 	endif; ?>
 	
-	<p>Thank Me Later has been sponsored by <a href="http://www.pipvertise.co.uk/" target="_blank">
+	<p>List Emails has been sponsored by <a href="http://www.pipvertise.co.uk/" target="_blank">
 
 <img src="data:image/gif;base64,R0lGODlhQgAQAJEAAP8AZv////+PvP8/jCH5BAAHAP8ALAAAAABCABAAAALXHI4TcbIPo5zRNUoN
 2gw4DIKC133hYyjLSJ7udL1RCqXCjQvD4OCPr9v9cBoecMf7IVEA1eKgYWkatKdneoFuNthL12G7
